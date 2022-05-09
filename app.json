@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "siban",
-    "slug": "siban",
+    "name": "jinhokimovies",
+    "slug": "jinhokimovies",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
     ]
   },
-  "name": "siban"
+  "name": "jinhokimovies"
 }
